@@ -1,0 +1,29 @@
+# ========================
+# Node Dependencies
+# ========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ========================
+# Security & Env Variables
+# ========================
+.env
+.env.*
+!.env.example
+*.pem
+secrets.json
+
+# ========================
+# Next.js Build Output
+# ========================
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# ========================
+# OS & Editor Files
+# ========================
+.DS_Store
+.vscode/
+*.swp
