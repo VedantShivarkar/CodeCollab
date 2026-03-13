@@ -69,9 +69,13 @@ Navigate to \`http://localhost:3000\`. You will be redirected to the secure logi
 * **Execution:** Client-side execution sandboxes prevent backend infrastructure attacks.
 * 
 Team Members :
+
   1.Vedant Shivarkar(Team Lead)
+  
   2.Ishika Sakhare
+  
   3.Harshal Mohadikar
+  
   4.Vansh Meshram
 
 ---
